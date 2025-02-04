@@ -14,6 +14,12 @@ Dashboard ini dikembangkan menggunakan **Tableau**, memberikan wawasan bagi tim 
 
 📊 **Dashboard Tableau**: [HR Analysis Dashboard](https://public.tableau.com/views/HRAnalysisDashboard_17362125848100/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## 📌 Cara Menggunakan Dashboard  
+1. **Buka Tableau Dashboard** untuk menganalisis data karyawan.  
+2. **Jelajahi Summary View** untuk melihat ringkasan metrik HR.  
+3. **Gunakan Employee Records View** untuk analisis mendalam per individu.  
+4. **Gunakan filter** untuk menyesuaikan data berdasarkan kebutuhan analisis.  
+
 ---
 
 ## 📌 Pembuatan Dataset  
@@ -77,22 +83,8 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 - Menampilkan **daftar lengkap karyawan**, termasuk **nama, departemen, jabatan, gender, usia, tingkat pendidikan, dan gaji**.  
 - Memungkinkan pengguna **menyaring data berdasarkan kolom tertentu** untuk analisis lebih spesifik.  
 
-![Employee Records View](Icon%20and%20Design/HR%20Details.png)  
+![Employee Records View](Icon%20and%20Design/HR%20%20Details.png)
 
----
-
-## 📌 Teknologi yang Digunakan  
-✅ **Python (Faker Library)** – Untuk pembuatan data sintetis.  
-✅ **Tableau** – Untuk pembuatan dashboard interaktif.  
-✅ **Excel** – Untuk preprocessing dan penyempurnaan data sebelum divisualisasikan.  
-
----
-
-## 📌 Cara Menggunakan Dashboard  
-1. **Buka Tableau Dashboard** untuk menganalisis data karyawan.  
-2. **Jelajahi Summary View** untuk melihat ringkasan metrik HR.  
-3. **Gunakan Employee Records View** untuk analisis mendalam per individu.  
-4. **Gunakan filter** untuk menyesuaikan data berdasarkan kebutuhan analisis.  
 
 ---
 
@@ -100,13 +92,6 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 🔹 **Karyawan dengan tingkat pendidikan lebih tinggi** cenderung memiliki **rating kinerja lebih baik**.  
 🔹 **Perbedaan gaji antar gender** terlihat pada beberapa tingkat pendidikan tertentu.  
 🔹 **Usia 30-45 tahun** merupakan kelompok dengan **gaji tertinggi** dalam beberapa departemen.  
-🔹 **Tingkat pengunduran diri tertinggi** terjadi di beberapa departemen tertentu, memerlukan strategi retensi karyawan yang lebih baik.  
-
----
-
-## 📌 Rencana Pengembangan Selanjutnya  
-✅ Menambahkan **benchmarking data HR dunia nyata** untuk validasi lebih lanjut.  
-✅ Mengembangkan **model prediksi attrition** menggunakan Machine Learning.  
-✅ Mengintegrasikan **data HR real-time** untuk memperbarui analisis secara otomatis.  
+🔹 **Tingkat pengunduran diri tertinggi** terjadi di beberapa departemen tertentu sehingga memerlukan strategi retensi karyawan yang lebih baik.  
 
 ---
