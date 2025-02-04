@@ -10,7 +10,9 @@ Proyek ini bertujuan untuk membangun **HR Dashboard** yang dapat digunakan untuk
 
 Dashboard ini dikembangkan menggunakan **Tableau**, memberikan wawasan bagi tim HR untuk mendukung **perencanaan tenaga kerja, analisis gaji, dan evaluasi kinerja karyawan**.  
 
-![Tampilan Utama Dashboard](path-to-image.png)  
+---
+
+📊 **Dashboard Tableau**: [HR Analysis Dashboard](https://public.tableau.com/views/HRAnalysisDashboard_17362125848100/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -34,7 +36,6 @@ Setiap karyawan memiliki atribut berikut:
 13. **Tanggal Pengunduran Diri** – Ditentukan untuk **11.2% karyawan** dengan aturan bahwa **minimal 6 bulan setelah tanggal diterima kerja**.  
 14. **Gaji yang Disesuaikan** – Menggunakan faktor penyesuaian berdasarkan **gender, tingkat pendidikan, dan usia**.  
 
-![Contoh Dataset](path-to-image.png)  
 
 ---
 
@@ -48,6 +49,8 @@ Setiap karyawan memiliki atribut berikut:
 ### 1️⃣ Ringkasan Data (Summary View)  
 Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Analisis Gaji**.  
 
+![Tampilan Utama Dashboard](path-to-image.png)
+
 #### 📍 Overview  
 - Menampilkan **jumlah total karyawan** (dipekerjakan, aktif, dan mengundurkan diri).  
 - Menunjukkan **tren perekrutan dan pengunduran diri** setiap tahun.  
@@ -55,7 +58,6 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 - Membandingkan **jumlah karyawan di kantor pusat (HQ) vs cabang**.  
 - Memperlihatkan **distribusi karyawan berdasarkan kota dan negara bagian**.  
 
-![Overview](path-to-image.png)  
 
 #### 📍 Demografi  
 - Menampilkan **rasio gender** dalam perusahaan.  
@@ -63,13 +65,11 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 - Menampilkan **jumlah karyawan berdasarkan kategori usia dan pendidikan**.  
 - Menunjukkan **korelasi antara tingkat pendidikan dan rating kinerja karyawan**.  
 
-![Demografi](path-to-image.png)  
 
 #### 📍 Analisis Gaji (Income Analysis)  
 - Membandingkan **gaji berdasarkan tingkat pendidikan dan gender**, untuk melihat apakah ada **ketimpangan gaji**.  
 - Menganalisis **hubungan antara usia dan gaji** untuk karyawan di setiap departemen.  
 
-![Income Analysis](path-to-image.png)  
 
 ---
 
@@ -110,28 +110,3 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 ✅ Mengintegrasikan **data HR real-time** untuk memperbarui analisis secara otomatis.  
 
 ---
-
-## 📌 Repository Proyek  
-📂 **Dataset & Kode Python**: [Tambahkan link jika ada]  
-📊 **Dashboard Tableau**: [Tambahkan link jika tersedia]  
-
----
-
-## 📌 Tentang Penulis  
-👤 **[Nama Anda]**  
-📧 **[Email Anda]**  
-📂 **Portfolio & Proyek:** [GitHub/LinkedIn Anda]  
-
----
-
-## 📌 Lisensi  
-Proyek ini dibuat untuk **tujuan edukasi dan demonstrasi**, menggunakan data sintetis yang **tidak merepresentasikan organisasi nyata**.  
-
----
-
-### 🎯 **Mengapa README Ini Efektif?**  
-✅ **Mudah Dibaca & Terstruktur** – Memisahkan bagian dengan jelas.  
-✅ **Menjelaskan Dataset Secara Detail** – Memberikan transparansi dalam pembuatan data.  
-✅ **Menyertakan Foto Visualisasi** – Memudahkan pemahaman konsep proyek.  
-
-README ini sudah **siap diunggah ke GitHub**! 🚀 Jika ada bagian yang ingin ditambahkan atau disesuaikan, silakan beri tahu saya. 😊
