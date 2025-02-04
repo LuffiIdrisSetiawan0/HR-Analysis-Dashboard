@@ -49,7 +49,7 @@ Setiap karyawan memiliki atribut berikut:
 ### 1️⃣ Ringkasan Data (Summary View)  
 Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Analisis Gaji**.  
 
-![Tampilan Utama Dashboard](path-to-image.png)
+![Tampilan Utama Dashboard]([path-to-image.png](https://github.com/LuffiIdrisSetiawan0/HR-Analysis-Dashboard/blob/main/Icon%20and%20Design/HR%20Summary.png))
 
 #### 📍 Overview  
 - Menampilkan **jumlah total karyawan** (dipekerjakan, aktif, dan mengundurkan diri).  
@@ -77,7 +77,7 @@ Bagian ini terbagi menjadi **tiga bagian utama**: **Overview, Demografi, dan Ana
 - Menampilkan **daftar lengkap karyawan**, termasuk **nama, departemen, jabatan, gender, usia, tingkat pendidikan, dan gaji**.  
 - Memungkinkan pengguna **menyaring data berdasarkan kolom tertentu** untuk analisis lebih spesifik.  
 
-![Employee Records View](path-to-image.png)  
+![Employee Records View][(Icon and Design/HR  Details.png](https://github.com/LuffiIdrisSetiawan0/HR-Analysis-Dashboard/blob/main/Icon%20and%20Design/HR%20%20Details.png))  
 
 ---
 
